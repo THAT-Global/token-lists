@@ -16,7 +16,7 @@ This repository hosts the **static** and **dynamic** token-list JSON files used 
 ```
 
 * **static/** contains the token lists that are shipped in the latest app build. These files are updated by the THAT team as part of each app release (to reduce app data consumption).
-* **dynamic/** contains only the *delta* entries (new tokens or updated metadata) that should overlay the static lists at runtime. After a release, the extras from `dynamic/` get merged into `static/` in the next version, and `dynamic/` is reset to `[]`.
+* **dynamic/** contains only the *delta* entries (new tokens or updated metadata) that should overlay the static lists at runtime. After a release, the entries from `dynamic/` get merged into `static/` in the next version, and `dynamic/` is reset to `[]`.
 
 ## JSON Schema
 
