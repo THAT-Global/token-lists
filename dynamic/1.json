@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+        "chainId": 1,
+        "coingeckoId": "coinbase-wrapped-btc",
+        "decimals": 8,
+        "listedIn": [
+            "1inch",
+            "uniswap",
+            "rubic",
+            "coingecko",
+            "lifinance"
+        ],
+        "logoURI": "https://tokens-data.1inch.io/images/8453/0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf.webp",
+        "name": "Coinbase Wrapped BTC",
+        "symbol": "cbBTC"
+    }
+]
